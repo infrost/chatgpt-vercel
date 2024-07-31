@@ -14,7 +14,6 @@ https://user-images.githubusercontent.com/48356807/232432194-46ba797f-ad9d-476a-
 在线预览:
 
 1. [vercel.app](https://vercel-chatgpt-github.vercel.app) 被墙。
-2. ~~[aitoolgpt.com](https://www.aitoolgpt.com)，由 [@AUDI_GUZZ](https://m.okjike.com/users/4af3cfb4-1291-4a8b-b210-f515c86934a9) 免费提供~~。（2023.03.22 壮烈牺牲，提醒大家不要分享自己的站点，请小范围内使用）。
 
 ## 特点
 
@@ -182,7 +181,7 @@ https://user-images.githubusercontent.com/48356807/232432194-46ba797f-ad9d-476a-
 - 尽可能去优化已有的 Prompts，而不是重复添加。
 - 添加到结尾，我会定期整理。
 
-## 赞赏
+## 赞赏（原作者）
 
 如果本项目对你有所帮助，可以给小猫买点零食，但不接受任何付费功能请求。
 
